@@ -1,0 +1,14 @@
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\obj\Debug\net7.0\dz4_funk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\obj\Debug\net7.0\dz4_funk.AssemblyInfoInputs.cache
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\obj\Debug\net7.0\dz4_funk.AssemblyInfo.cs
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\obj\Debug\net7.0\dz4_funk.csproj.CoreCompileInputs.cache
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\bin\Debug\net7.0\dz4_funk.exe
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\bin\Debug\net7.0\dz4_funk.deps.json
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\bin\Debug\net7.0\dz4_funk.runtimeconfig.json
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\bin\Debug\net7.0\dz4_funk.dll
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\bin\Debug\net7.0\dz4_funk.pdb
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\obj\Debug\net7.0\dz4_funk.dll
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\obj\Debug\net7.0\refint\dz4_funk.dll
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\obj\Debug\net7.0\dz4_funk.pdb
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\obj\Debug\net7.0\dz4_funk.genruntimeconfig.cache
+C:\Users\el\Documents\2024\GB_Csharp\dz4_funk\obj\Debug\net7.0\ref\dz4_funk.dll
